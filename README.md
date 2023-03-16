@@ -3,28 +3,32 @@ Quick and dirty
 Many of these cores come from Tomato and Onion! They work pretty well. This version does not use the new per-core configs Shaun has created and may break.
 
 Separates subsystems-
-32x
-Sega CD
+32x, 
+Sega CD, 
 PC Engine CD/TG-16 CD
 
 Separates without custom settings-
 Famicom Disk System
 
 Adds systems and cores-
-CPS1
-CPS2
-Atari Lynx
-Neo Geo
-Neo Geo Pocket/Color
+CPS1, 
+CPS2, 
+Atari Lynx, 
+Neo Geo, 
+Neo Geo Pocket/Color, 
 SNES MSU-1 Audio (SNES CD)
 
 
 
 Bios needed:
 Bios/
+
 LYNX/lynxboot.img 
+
 NEOGEO/neogeo.zip
+
 PCECD/syscard3.pce
+
 SEGACD/bios_CD_U.bin, bios_CD_E.bin, bios_CD_J.bin
 
 For Sega CD, don't try any of the wondermega bios or anything crazy. Just get the standard 1.00 and 1.10 ones. 
